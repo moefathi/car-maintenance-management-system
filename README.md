@@ -47,3 +47,7 @@ I have also included a PDF containing an edited version of my original universit
 - **Type:** Academic Project
 - **Course:** Advanced Programming 2
 - **Semester:** Fall 2025
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
+
